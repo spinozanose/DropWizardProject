@@ -1,0 +1,11 @@
+.project
+dropwizard-application/target/
+dropwizard-client/.classpath
+dropwizard-client/.settings/
+dropwizard-client/target/
+dropwizard-application/.settings/
+dropwizard-application/.classpath
+dropwizard-api/target/
+dropwizard-api/.settings/
+dropwizard-api/.classpath
+.settings/
